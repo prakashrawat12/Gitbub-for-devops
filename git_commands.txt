@@ -21,3 +21,10 @@
   23 rm print.py
   24 git status
   25 git restore print.py
+  git remote -v
+  PS C:\Users\QCS\Desktop\github-devops> git remote -v
+origin  https://s@github.com/prakashrawat12/Gitbub-for-devops.git (fetch)
+origin  https://ghis@github.com/prakashrawat12/Gitbub-for-devops.git (push)
+PS C:\Users\QCS\Desktop\github-devops> ^C
+PS C:\Users\QCS\Desktop\github-devops> ^C
+PS C:\Users\QCS\Desktop\github-devops> rn
