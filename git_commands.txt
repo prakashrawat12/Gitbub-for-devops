@@ -28,3 +28,6 @@ origin  https://ghis@github.com/prakashrawat12/Gitbub-for-devops.git (push)
 PS C:\Users\QCS\Desktop\github-devops> ^C
 PS C:\Users\QCS\Desktop\github-devops> ^C
 PS C:\Users\QCS\Desktop\github-devops> rn
+
+
+git some upadate changed
